@@ -13,3 +13,8 @@ Andrew Simon
 Project Team Members: 
 Tejas Hariharan 
 Project Team Members: Nathan Ovadia
+<<<<<<< HEAD
+=======
+making some merge conflicts :)
+ main
+>>>>>>> main

@@ -1,3 +1,5 @@
+Project Team Members:
+Alex Pedersen
  Sam
 Project Team Members:
 Sam Hoswell
@@ -11,5 +13,9 @@ Andrew Simon
 Project Team Members: 
 Tejas Hariharan 
 Project Team Members: Nathan Ovadia
+<<<<<<< HEAD
+=======
 making some merge conflicts :)
+corrected changes made by Alex
  main
+>>>>>>> main

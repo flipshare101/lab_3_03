@@ -16,5 +16,6 @@ Project Team Members: Nathan Ovadia
 <<<<<<< HEAD
 =======
 making some merge conflicts :)
+corrected changes made by Alex
  main
 >>>>>>> main
